@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tienda.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Tienda.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\0ae4ee40-b08a-48a6-a877-2182824ece45.png",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\0ae4ee40-b08a-48a6-a877-2182824ece45.png"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\1073b501-e640-4d11-8519-470d0f260a57.webp",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\1073b501-e640-4d11-8519-470d0f260a57.webp"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\48a1142d-f917-42c0-ad73-74caac248b35.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\48a1142d-f917-42c0-ad73-74caac248b35.jpg"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\53d7d408-ccc5-417c-bbaa-74e47fcfc7b6.webp",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\53d7d408-ccc5-417c-bbaa-74e47fcfc7b6.webp"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\5729348b-2086-44c6-96b4-90a919aa5e6c.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\5729348b-2086-44c6-96b4-90a919aa5e6c.jpg"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\6b6f68d0-8e3a-4b40-9a1e-49441d9760bd.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\6b6f68d0-8e3a-4b40-9a1e-49441d9760bd.jpg"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\7145732d-3b35-4f12-a936-bbdaf8b91933.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\7145732d-3b35-4f12-a936-bbdaf8b91933.jpg"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\8033f6ce-e62e-45a2-8ac8-01efa2be647c.png",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\8033f6ce-e62e-45a2-8ac8-01efa2be647c.png"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\89c9a788-c7de-486b-bf8e-f04ad8b40993.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\89c9a788-c7de-486b-bf8e-f04ad8b40993.jpg"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\8ba4fbe0-f934-40fe-b37d-192bdbdd8476.webp",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\8ba4fbe0-f934-40fe-b37d-192bdbdd8476.webp"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\9680d392-3cb9-4e21-bf0f-7aff5aeb019a.webp",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\9680d392-3cb9-4e21-bf0f-7aff5aeb019a.webp"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\994d58fb-c40a-4040-809d-6cd336233ab2.webp",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\994d58fb-c40a-4040-809d-6cd336233ab2.webp"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\a3166719-539b-4112-886b-caffa0b4e75d.webp",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\a3166719-539b-4112-886b-caffa0b4e75d.webp"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\b46b9de2-4c7b-4b23-aeec-37a34e740c7c.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\b46b9de2-4c7b-4b23-aeec-37a34e740c7c.jpg"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\e5adf7f7-a5f4-4f69-9423-d660e56f65c3.webp",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\e5adf7f7-a5f4-4f69-9423-d660e56f65c3.webp"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\ed14c411-dca8-4c89-8f52-e6572c15b609.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\ed14c411-dca8-4c89-8f52-e6572c15b609.jpg"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\eefa3f04-9a8d-4944-95a5-f577f3a603e2.png",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\eefa3f04-9a8d-4944-95a5-f577f3a603e2.png"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\f02f47c9-aa94-42f3-867f-519401f138a0.webp",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\f02f47c9-aa94-42f3-867f-519401f138a0.webp"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\articulo\\f725a9e2-9303-4f09-8a9a-f1e0546a70c6.webp",
+      "PackagePath": "staticwebassets\\imagenes\\articulo\\f725a9e2-9303-4f09-8a9a-f1e0546a70c6.webp"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\login.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\login.jpg"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\imagenes\\tienda.png",
+      "PackagePath": "staticwebassets\\imagenes\\tienda.png"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\js\\articulo.js",
+      "PackagePath": "staticwebassets\\js\\articulo.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\js\\categoria.js",
+      "PackagePath": "staticwebassets\\js\\categoria.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\js\\marca.js",
+      "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Sistema Completado\\Tienda\\Tienda\\Tienda\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Tienda.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Tienda.props",
+      "PackagePath": "build\\Tienda.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Tienda.props",
+      "PackagePath": "buildMultiTargeting\\Tienda.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Tienda.props",
+      "PackagePath": "buildTransitive\\Tienda.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

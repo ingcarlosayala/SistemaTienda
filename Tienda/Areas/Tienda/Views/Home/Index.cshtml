@@ -1,0 +1,71 @@
+﻿@model Tienda.Models.ViewsModels.HomeVM
+
+@{
+    ViewData["Title"] = "Inicio";
+}
+
+<div class="container-fluid px-0">
+    <div class="bg-dark py-2">
+        <div class="container px-4 px-lg-5 my-5">
+            <div class="text-center text-white">
+                <h1 class="display-4 fw-bolder">Compra con estilo</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-xl mt-3 mb-4">
+    <form method="post">
+        <div class="col-8">
+            <div class="row">
+                <div class="col-4">
+                    <select asp-items="Model.ListaCategoria" name="categoria" class="form-select">
+                        <option>Todas las Categorias</option>
+                    </select>
+                </div>
+                <div class="col-4">
+                    <input type="number" class="form-control" name="filtro" placeholder="Codigo" />
+                </div>
+                <div class="col-4">
+                    <button asp-action="Index" type="submit" class="btn btn-dark">Buscar</button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+
+<div class="container-xl">
+    @if (Model.ListaArtciculos.Count() > 0)
+    {
+        <div class="row">
+            @foreach (var articulo in Model.ListaArtciculos)
+            {
+                <div class="col-md-4 col-lg-3 mb-3">
+                    <div class="card rounded shadow">
+                        <img src="@articulo.ImagenUrl" class="card-img-top">
+                        <div class="card-body">
+                            <div class="d-flex d-inline justify-content-between">
+                                <p class="mb-1">@articulo.Marca.Nombre</p>
+                                <p class="mb-1 fw-bold">Codigo: <span class="text-success">@articulo.Codigo</span></p>
+                            </div>
+                            <p class="text-primary fw-bold">@articulo.Descripcion</p>
+                            <p class="mb-0 text-dark fw-bold fs-5">RD @articulo.Precio.ToString("C",new System.Globalization.CultureInfo("en-US"))</p>
+                            <a asp-action="Detalle" asp-route-id="@articulo.Id" class="btn btn-dark d-block mt-3">Detalles</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <h5 class="text-info">No Existe el registro que busca</h5>
+    }
+</div>
+
+
+
+
+
+

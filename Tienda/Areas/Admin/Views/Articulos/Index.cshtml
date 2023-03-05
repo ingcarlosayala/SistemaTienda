@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Tienda.Models.ViewsModels.ArticuloVM>
+@{
+    ViewData["Title"] = "Lista Articulos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-xl">
+    <div class="row mt-4">
+        <div class="col-12 col-md-6">
+            <h1 class="fw-bold text-info">Lista Articulos</h1>
+        </div>
+        <div class="col-12 col-md-3 offset-md-1">
+            <a asp-action="Crear" class="btn btn-success"><i class="fa-solid fa-plus"></i> Nuevo Articulo</a>
+        </div>
+    </div>
+
+    <div class="table-responsive-md mt-3">
+        <table id="tblarticulo" class="table table-striped w-100">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(c => c.Articulo.Codigo)</th>
+                    <th>@Html.DisplayNameFor(c => c.Articulo.Nombre)</th>
+                    <th>@Html.DisplayNameFor(c => c.Articulo.Categoria.Nombre)</th>
+                    <th>@Html.DisplayNameFor(c => c.Articulo.Marca.Nombre)</th>
+                    <th>@Html.DisplayNameFor(c => c.Articulo.Precio)</th>
+                    <th>@Html.DisplayNameFor(c => c.Articulo.FechaCreacion)</th>
+                    <th class="text-center">Acciones</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/js/articulo.js"></script>
+}
+

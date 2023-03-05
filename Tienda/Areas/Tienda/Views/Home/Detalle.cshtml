@@ -1,0 +1,26 @@
+﻿@model Tienda.Models.Articulo
+@{
+    ViewData["Title"] = "Detalles";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Product section-->
+<section class="py-5">
+    <div class="container px-4 px-lg-5 my-5">
+        <div class="row gx-4 gx-lg-5 align-items-center">
+            <div class="col-md-6"><img class="card-img-top mb-5 mb-md-0 shadow rounded bg-white" src="@Model.ImagenUrl" alt="..." /></div>
+            <div class="col-md-6">
+                <div class="small mb-1"></div>
+                <h1 class="display-5 fw-bolder">@Model.Nombre</h1>
+                <div class="fs-5 mb-5">
+                    <span class="fw-bold fs-3 text-success">@Model.Precio.ToString("C", new System.Globalization.CultureInfo("en-US"))</span>
+                </div>
+                <p class="lead">@Model.Descripcion</p>
+                <div class="d-flex">
+                    <a asp-action="Index" class="btn btn-outline-dark">Regresar</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

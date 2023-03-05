@@ -1,0 +1,24 @@
+C:\Users\carlo\OneDrive\Escritorio\Tienda\Tienda\Tienda.Models\bin\Debug\net7.0\Tienda.Models.deps.json
+C:\Users\carlo\OneDrive\Escritorio\Tienda\Tienda\Tienda.Models\bin\Debug\net7.0\Tienda.Models.dll
+C:\Users\carlo\OneDrive\Escritorio\Tienda\Tienda\Tienda.Models\bin\Debug\net7.0\Tienda.Models.pdb
+C:\Users\carlo\OneDrive\Escritorio\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\Tienda.Models.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\Tienda.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Escritorio\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\Tienda.Models.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\Tienda.Models.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Escritorio\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\Tienda.Models.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\Tienda.Models.dll
+C:\Users\carlo\OneDrive\Escritorio\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\refint\Tienda.Models.dll
+C:\Users\carlo\OneDrive\Escritorio\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\Tienda.Models.pdb
+C:\Users\carlo\OneDrive\Escritorio\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\ref\Tienda.Models.dll
+D:\Sistema Completado\Tienda\Tienda\Tienda.Models\bin\Debug\net7.0\Tienda.Models.deps.json
+D:\Sistema Completado\Tienda\Tienda\Tienda.Models\bin\Debug\net7.0\Tienda.Models.dll
+D:\Sistema Completado\Tienda\Tienda\Tienda.Models\bin\Debug\net7.0\Tienda.Models.pdb
+D:\Sistema Completado\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\Tienda.Models.csproj.AssemblyReference.cache
+D:\Sistema Completado\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\Tienda.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistema Completado\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\Tienda.Models.AssemblyInfoInputs.cache
+D:\Sistema Completado\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\Tienda.Models.AssemblyInfo.cs
+D:\Sistema Completado\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\Tienda.Models.csproj.CoreCompileInputs.cache
+D:\Sistema Completado\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\Tienda.Models.dll
+D:\Sistema Completado\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\refint\Tienda.Models.dll
+D:\Sistema Completado\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\Tienda.Models.pdb
+D:\Sistema Completado\Tienda\Tienda\Tienda.Models\obj\Debug\net7.0\ref\Tienda.Models.dll

@@ -1,0 +1,76 @@
+﻿@model Tienda.Models.ViewsModels.ArticuloVM
+@{
+    ViewData["Title"] = "Actualizar Articulo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-xl">
+    <h1 class="text-center my-4 text-info fw-bold">Actualizar Articulo</h1>
+
+    <form asp-action="Editar" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly"></div>
+        <input type="hidden" asp-for="Articulo.Id"/>
+        <div class="row">
+            <div class="col-md-6 bg-white shadow p-3 rounded">
+                <div class="mb-2">
+                    <label asp-for="Articulo.Codigo" class="form-label text-uppercase fw-bold text-muted"></label>
+                    <input asp-for="Articulo.Codigo" type="number" class="form-control" placeholder="#Codigo" />
+                    <span asp-validation-for="Articulo.Codigo" class="text-danger"></span>
+                </div>
+
+                <div class="mb-2">
+                    <label asp-for="Articulo.Nombre" class="form-label text-uppercase fw-bold text-muted"></label>
+                    <input asp-for="Articulo.Nombre" type="text" class="form-control" placeholder="Nombre Articulo" />
+                    <span asp-validation-for="Articulo.Nombre" class="text-danger"></span>
+                </div>
+
+                <div class="mb-2">
+                    <label asp-for="Articulo.Precio" class="form-label text-uppercase fw-bold text-muted"></label>
+                    <input asp-for="Articulo.Precio" type="number"  class="form-control" placeholder="$0.00" />
+                    <span asp-validation-for="Articulo.Precio" class="text-danger"></span>
+                </div>
+
+                <div class="mb-2">
+                    <label asp-for="Articulo.Categoria.Nombre" class="form-label text-uppercase fw-bold text-muted"></label>
+                    @Html.DropDownListFor(c => c.Articulo.IdCategoria,Model.ListaCategorias,"Seleccione Categoria", new {@class = "form-control"})
+                    <span asp-validation-for="Articulo.IdCategoria" class="text-danger"></span>
+                </div>
+
+                <div class="mb-2">
+                    <label asp-for="Articulo.Marca.Nombre" class="form-label text-uppercase fw-bold text-muted"></label>
+                    @Html.DropDownListFor(c => c.Articulo.IdMarca,Model.ListaMarcas,"Seleccione Marca", new {@class = "form-control"})
+                    <span asp-validation-for="Articulo.IdMarca" class="text-danger"></span>
+                </div>
+
+                <div class="mb-2">
+                    <label asp-for="Articulo.ImagenUrl" class="form-label text-uppercase fw-bold text-muted"></label>
+                    <input asp-for="Articulo.ImagenUrl" type="file" id="validarImagen" class="form-control" />
+                    <span asp-validation-for="Articulo.ImagenUrl" class="text-danger"></span>
+                </div>
+
+                <div class="mb-2">
+                    <label asp-for="Articulo.Descripcion" class="form-label text-uppercase fw-bold text-muted"></label>
+                    <textarea asp-for="Articulo.Descripcion" class="form-control" id="summernote"></textarea>
+                    <span asp-validation-for="Articulo.Descripcion" class="text-danger"></span>
+                </div>
+
+                <div>
+                    <button onclick="return Validar()" class="btn btn-success"><i class="fa-solid fa-floppy-disk"></i> Guardar</button>
+                    <a asp-action="Index" class="btn btn-secondary"><i class="fa-solid fa-arrow-left"></i> Regresar</a>
+                </div>
+            </div>
+            <div class="col-md-5 offset-md-1">
+                <img src="@Model.Articulo.ImagenUrl" class="img-thumbnail"/>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial"></partial>
+}
+
+
+
+
+
